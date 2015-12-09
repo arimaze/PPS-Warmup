@@ -14,7 +14,7 @@ namespace PPSWarmUp
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent();//adrian
         }
 
         List<String> urls = new List<string>();
